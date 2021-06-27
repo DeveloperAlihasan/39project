@@ -283,6 +283,7 @@
     }
     .pricing-table-item {
         width: 100%;
+        margin-bottom: 15px;
     }
     .p-content ul li {
         font-size: 20px;
@@ -311,6 +312,10 @@
         width: 33%;
         margin-left: 13%;
     }
+    .member-bio p {
+        font-size: 15px;
+        padding-right: 20px;
+    }
     .section-title h1 {
         font-size: 28px;
     }
@@ -322,6 +327,10 @@
         margin-left: 2%;
         padding: 0px;
     }
+    .blog-post-content p {
+        font-size: 13px;
+        padding-left: 10px;
+    }
     .footer p {
         font-size: 18px;
     }
@@ -332,6 +341,10 @@
     }
     .banner-content h2 {
         font-size: 35px;
+    }
+  
+    .member-bio {
+        padding: 15px;
     }
     .default-btn {
         padding: 15px 15px;
@@ -345,6 +358,10 @@
     }
     .section-title p {
         font-size: 15px;
+    }
+    .pricing-table-item {
+        width: 100%;
+        margin-bottom: 20px;
     }
     .team-section .section-title h2 {
         font-size: 19px;
@@ -364,6 +381,7 @@
     }
     .blog-post-content p {
         font-size: 13px;
+        padding-left: 10px;
     }
     .section-title.newslatter-title h2 {
         font-size: 22px;
